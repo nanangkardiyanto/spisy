@@ -1,2 +1,3 @@
 Next Plan
 - Loader salary
+- Create Menu Loader Salary
