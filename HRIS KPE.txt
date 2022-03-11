@@ -1,3 +1,4 @@
 Next Plan
 - Loader salary
+ > analysis and create menu
 - Create Menu Loader Salary
